@@ -1,7 +1,7 @@
 # Clipboard history and Snipping tool hotkeys fix for Windows 10 LTSC 21H2
 
-Click on the green Code button, then Download ZIP.
+Click on the green Code button, then Download ZIP.<br>
 Unzip to a convenient folder for you and run setup.bat. Administrator privileges are <b>not</b> required.
 
-To open the Snipping tool, press Win + Shift + S
+To open the Snipping tool, press Win + Shift + S<br>
 To open the Clipboard history, press Win + V
