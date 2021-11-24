@@ -1,6 +1,6 @@
 @echo off
 rem https://github.com/Liub0myr/Win-10-LTSC-21H2-Clip-and-Snip-fix
-title Clipboard history and Snipping tool fix by Liub0myr
+title Clipboard history and Snipping tool hotkeys fix by Liub0myr
 call :arch
 call :install
 echo Everything is done !
